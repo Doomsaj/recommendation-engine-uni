@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.git
+.gitignore
+
+node_modules/
+
+db_data/
+*.log
+
+# model artifacts (optional depending on your flow)
+trained-model/
+model.pkl
